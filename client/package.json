@@ -33,7 +33,7 @@
         "fetch-mock": "5.12.2",
         "js-cookie": "2.1.4",
         "lodash": "^4.17.20",
-        "moment": "2.24.0",
+        "moment": "2.29.4",
         "react": "16.4.2",
         "react-dom": "16.4.2",
         "react-dropzone": "5.1.1",
