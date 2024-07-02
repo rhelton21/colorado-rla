@@ -44,7 +44,7 @@
         "react-router-dom": "5.0.0",
         "react-transition-group": "2.7.1",
         "redux-saga": "0.15.6",
-        "source-map-loader": "0.2.1",
+        "source-map-loader": "1.0.0",
         "string-similarity": "3.0.0",
         "tap-spec": "4.1.1"
     },
